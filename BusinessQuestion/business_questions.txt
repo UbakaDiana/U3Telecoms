@@ -1,0 +1,9 @@
+You are a consultant data analyst, working for a data analytics consultancy firm in the UK, your client U3 telecoms needs to understand why and how customers are leaving their business. 
+
+From the last stakeholders' meeting, here are some important business metrics and analysis they will like to know:
+- Total customers
+- Churn Rate
+- How does age group affect churn rate
+- How does Tech support affect churn rate
+- What type of contract churn the most.
+- What is the average monthly charge by customer status?
