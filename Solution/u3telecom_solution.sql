@@ -33,7 +33,7 @@ SELECT (CAST
 FROM dbo.telecom;
 
 --How age group affects churn rate--
---majority of the churned were those below the age  bracket of 60 assuming the age for retirement is 60
+--majority of the churned were those below the age bracket of 60 assuming the age for retirement is 60
 SELECT SeniorCitizen,COUNT (Churn) no_of_churned
 FROM dbo.telecom
 WHERE Churn = 'Yes'
